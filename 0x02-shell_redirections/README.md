@@ -3,3 +3,4 @@ prints hello world followed by a new line in the standard output
 content of the  file
 display the content of the two files
 display the content of two files
+Display the last 10 lines
