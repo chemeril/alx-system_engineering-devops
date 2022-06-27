@@ -4,3 +4,4 @@ content of the  file
 display the content of the two files
 display the content of two files
 Display the last 10 lines
+Display the first 10 lines
